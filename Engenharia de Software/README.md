@@ -29,17 +29,27 @@
 <h3 align="center"> Main </h3>
 <br>
 <img width="1388" height="929" alt="Image" src="https://github.com/user-attachments/assets/b3d3ec97-aaeb-4171-8996-aa99ed399eda" />
-<img width="1385" height="160" alt="Image" src="https://github.com/user-attachments/assets/939f4dfa-988a-4c40-8baa-e7dc56ee4563" />
-<img width="1799" height="416" alt="Image" src="https://github.com/user-attachments/assets/be618fbb-7558-4ce6-8053-e59cfa42bf2e" />
+<img width="1388" height="160" alt="Image" src="https://github.com/user-attachments/assets/939f4dfa-988a-4c40-8baa-e7dc56ee4563" />
+<img width="1388" height="416" alt="Image" src="https://github.com/user-attachments/assets/be618fbb-7558-4ce6-8053-e59cfa42bf2e" />
 <br>
 <h3 align="center"> Artista </h3>
 <br>
-<img width="1386" height="906" alt="Image" src="https://github.com/user-attachments/assets/7678c772-e728-4765-86e5-88715d1dac15" />
+<img width="1388" height="906" alt="Image" src="https://github.com/user-attachments/assets/7678c772-e728-4765-86e5-88715d1dac15" />
 <br>
 <h3 align="center"> Album </h3>
 <br>
-<img width="1390" height="905" alt="Image" src="https://github.com/user-attachments/assets/d8dc0f13-2cd9-4ca4-b3b8-47e0934716e2" />
+<img width="1388" height="905" alt="Image" src="https://github.com/user-attachments/assets/d8dc0f13-2cd9-4ca4-b3b8-47e0934716e2" />
 <br>
 <h3 align="center"> Faixa </h3>
 <br>
-<img width="1385" height="902" alt="Image" src="https://github.com/user-attachments/assets/0697ca1b-b1b7-4b07-83d6-291ce85acccf" />
+<img width="1388" height="902" alt="Image" src="https://github.com/user-attachments/assets/0697ca1b-b1b7-4b07-83d6-291ce85acccf" />
+<br>
+<h3 align="center"> ★ Atividade 6 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 6 encontra-se na subpasta A6, com o respectivo código. </p>
+<br>
+<h3 align="center"> Teste </h3>
+<br>
+<img width="1388" height="927" alt="Image" src="https://github.com/user-attachments/assets/957e05b6-dcaf-4a1c-b64b-75af7794f65d" />
+<img width="1388" height="267" alt="Image" src="https://github.com/user-attachments/assets/2947a9cc-297a-43ff-922e-332500fedfc8" />
+<img width="1388" height="220" alt="Image" src="https://github.com/user-attachments/assets/69c196a1-b860-419f-a833-105fd1e7be7f" />
