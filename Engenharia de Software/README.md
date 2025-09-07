@@ -21,3 +21,25 @@
 <h3 align="center"> ★ Atividade 4 ★ </h3>
 <br>
 <p align="justify"> A resolução da Atividade 4 encontra-se na subpasta A4, com o respectivo arquivo. </p>
+<br>
+<h3 align="center"> ★ Atividade 5 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 5 encontra-se na subpasta A5, com o respectivo código. </p>
+<br>
+<h3 align="center"> Main </h3>
+<br>
+<img width="1388" height="929" alt="Image" src="https://github.com/user-attachments/assets/b3d3ec97-aaeb-4171-8996-aa99ed399eda" />
+<img width="1385" height="160" alt="Image" src="https://github.com/user-attachments/assets/939f4dfa-988a-4c40-8baa-e7dc56ee4563" />
+<img width="1799" height="416" alt="Image" src="https://github.com/user-attachments/assets/be618fbb-7558-4ce6-8053-e59cfa42bf2e" />
+<br>
+<h3 align="center"> Artista </h3>
+<br>
+<img width="1386" height="906" alt="Image" src="https://github.com/user-attachments/assets/7678c772-e728-4765-86e5-88715d1dac15" />
+<br>
+<h3 align="center"> Album </h3>
+<br>
+<img width="1390" height="905" alt="Image" src="https://github.com/user-attachments/assets/d8dc0f13-2cd9-4ca4-b3b8-47e0934716e2" />
+<br>
+<h3 align="center"> Faixa </h3>
+<br>
+<img width="1385" height="902" alt="Image" src="https://github.com/user-attachments/assets/0697ca1b-b1b7-4b07-83d6-291ce85acccf" />
