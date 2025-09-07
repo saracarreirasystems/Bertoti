@@ -17,3 +17,7 @@
 <p align="justify"><strong> • Velocidade de entrega × Qualidade do código: </strong> Optar por entregar rapidamente o produto, mesmo que o código não esteja totalmente otimizado, pode acelerar a entrada no mercado e possibilitar uma validação mais ágil com os usuários. No entanto, essa abordagem pode resultar em falhas, gerar dívidas técnicas e demandar retrabalho futuro. </p>
 <p align="justify"><strong> • Desempenho × Consumo de recursos: </strong> Melhorar significativamente a velocidade de execução, ainda que isso implique maior uso de memória ou energia, proporciona uma experiência mais fluida e responsiva. Contudo, pode causar incompatibilidade com dispositivos mais limitados ou aumentar os custos operacionais. </p>
 <p align="justify"><strong> • Funcionalidade × Simplicidade: </strong> Adicionar múltiplas funcionalidades para atender a públicos ou necessidades específicas torna o sistema mais versátil e completo, mas também eleva a complexidade, o que pode dificultar a manutenção e os testes. </p>
+<br>
+<h3 align="center"> ★ Atividade 4 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 4 encontra-se na subpasta A4, com o respectivo arquivo. </p>
