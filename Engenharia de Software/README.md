@@ -11,3 +11,9 @@
 <p align="justify"><strong> • Escala e crescimento: </strong> Diz respeito à adequação de métodos, práticas e estruturas à medida que o sistema, ou a organização, aumenta em tamanho, complexidade e demandas operacionais. </p>
 <p align="justify"><strong> • Trade-offs e custos: </strong> Envolve a tomada de decisões conscientes, avaliando os impactos e compromissos de cada escolha, tanto no curto quanto no longo prazo, em termos de desempenho, manutenibilidade e recursos. </p>
 <br>
+<h3 align="center"> ★ Atividade 3 ★ </h3>
+<br>
+<p align="justify"> Esses princípios orientam as decisões ao longo do ciclo de vida do software. No caso dos trade-offs, é comum a necessidade de equilibrar prioridades conflitantes. A seguir, alguns exemplos ilustram essas escolhas: </p>
+<p align="justify"><strong> • Velocidade de entrega × Qualidade do código: </strong> Optar por entregar rapidamente o produto, mesmo que o código não esteja totalmente otimizado, pode acelerar a entrada no mercado e possibilitar uma validação mais ágil com os usuários. No entanto, essa abordagem pode resultar em falhas, gerar dívidas técnicas e demandar retrabalho futuro. </p>
+<p align="justify"><strong> • Desempenho × Consumo de recursos: </strong> Melhorar significativamente a velocidade de execução, ainda que isso implique maior uso de memória ou energia, proporciona uma experiência mais fluida e responsiva. Contudo, pode causar incompatibilidade com dispositivos mais limitados ou aumentar os custos operacionais. </p>
+<p align="justify"><strong> • Funcionalidade × Simplicidade: </strong> Adicionar múltiplas funcionalidades para atender a públicos ou necessidades específicas torna o sistema mais versátil e completo, mas também eleva a complexidade, o que pode dificultar a manutenção e os testes. </p>
