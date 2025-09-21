@@ -75,3 +75,18 @@
 <br>
 <img width="1388" height="925" alt="Image" src="https://github.com/user-attachments/assets/cd670eec-5048-4ec3-8c3f-ab5cec22add3" />
 <img width="1388" height="292" alt="Image" src="https://github.com/user-attachments/assets/9e4e2acf-763b-47ff-9c32-001050631ed0" />
+<br>
+<h3 align="center"> ★ Atividade 8 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 8 encontra-se na subpasta A8, com o respectivo código. </p>
+<br>
+<h3 align="center"> Main </h3>
+<br>
+<img width="1388" height="925" alt="Image" src="https://github.com/user-attachments/assets/9db4d94c-73cc-47d6-ac18-e606d364215c" />
+<img width="1388" height="47" alt="Image" src="https://github.com/user-attachments/assets/9223e37f-76e2-437d-9df0-b1484944ae2b" />
+<img width="1388" height="553" alt="Image" src="https://github.com/user-attachments/assets/db72dbdb-8c3b-430c-a3a7-b6785634c859" />
+<br>
+<h3 align="center"> Teste </h3>
+<br>
+<img width="1388" height="660" alt="Image" src="https://github.com/user-attachments/assets/cfd6167d-638f-4ef4-baa8-619bf125d242" />
+<img width="1388" height="252" alt="Image" src="https://github.com/user-attachments/assets/c09b46ae-17af-4379-91ae-51f9a89a925f" />
