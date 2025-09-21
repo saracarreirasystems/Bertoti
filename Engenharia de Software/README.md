@@ -53,3 +53,25 @@
 <img width="1388" height="927" alt="Image" src="https://github.com/user-attachments/assets/957e05b6-dcaf-4a1c-b64b-75af7794f65d" />
 <img width="1388" height="267" alt="Image" src="https://github.com/user-attachments/assets/2947a9cc-297a-43ff-922e-332500fedfc8" />
 <img width="1388" height="220" alt="Image" src="https://github.com/user-attachments/assets/69c196a1-b860-419f-a833-105fd1e7be7f" />
+<br>
+<h3 align="center"> ★ Atividade 7 ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 7 encontra-se na subpasta A7, com o respectivo código. </p>
+<br>
+<h3 align="center"> Database </h3>
+<br>
+<img width="1388" height="927" alt="Image" src="https://github.com/user-attachments/assets/545fa8ba-5dc0-4018-b873-4692e50d64c5" />
+<img width="1388" height="218" alt="Image" src="https://github.com/user-attachments/assets/45260ac0-20f7-4d36-b7dc-722e82073662" />
+<br>
+<h3 align="center"> Main </h3>
+<br>
+<img width="1388" height="931" alt="Image" src="https://github.com/user-attachments/assets/da3c0549-50a3-4b8c-b20e-f4deca6694e1" />
+<img width="1388" height="881" alt="Image" src="https://github.com/user-attachments/assets/bfe81108-6c07-4a35-9c65-e8e471d7800e" />
+<img width="1388" height="861" alt="Image" src="https://github.com/user-attachments/assets/89eec72c-dee8-41a2-bc31-cf4e2ee5849a" />
+<img width="1388" height="67" alt="Image" src="https://github.com/user-attachments/assets/9a3747ea-2b55-4c5b-9a38-a789c3aa26c2" />
+<img width="1388" height="596" alt="Image" src="https://github.com/user-attachments/assets/36b5da20-8cba-4774-b860-853c8cda0ac4" />
+<br>
+<h3 align="center"> TesteBanco </h3>
+<br>
+<img width="1388" height="925" alt="Image" src="https://github.com/user-attachments/assets/cd670eec-5048-4ec3-8c3f-ab5cec22add3" />
+<img width="1388" height="292" alt="Image" src="https://github.com/user-attachments/assets/9e4e2acf-763b-47ff-9c32-001050631ed0" />
