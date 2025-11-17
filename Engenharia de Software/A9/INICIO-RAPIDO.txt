@@ -1,0 +1,69 @@
+╔══════════════════════════════════════════════════════════════════╗
+║              🚀 INÍCIO RÁPIDO - 3 PASSOS                         ║
+╚══════════════════════════════════════════════════════════════════╝
+
+PASSO 1: INSTALAR OLLAMA
+═══════════════════════════════════════════════════════════════════
+Windows:  https://ollama.com/download
+Linux:    curl -fsSL https://ollama.com/install.sh | sh
+
+Depois execute:
+  ollama pull gemma3:12b
+  ollama serve  ← DEIXE ESTE TERMINAL ABERTO!
+
+
+PASSO 2: CONFIGURAR MYSQL
+═══════════════════════════════════════════════════════════════════
+Edite: src/main/java/com/sambold/config/DatabaseConfig.java
+
+Altere estas linhas:
+  private static final String USER = "seu_usuario";
+  private static final String PASSWORD = "sua_senha";
+
+Execute seu script SQL do banco de dados.
+
+Opcional - dados de teste:
+  mysql -u root -p < dados_exemplo.sql
+
+
+PASSO 3: EXECUTAR NO VS CODE
+═══════════════════════════════════════════════════════════════════
+Método 1 (mais fácil):
+  1. Abra: src/main/java/com/sambold/Main.java
+  2. Pressione F5
+
+Método 2 (terminal):
+  Terminal → Ctrl+`
+  mvn clean install
+  mvn exec:java -Dexec.mainClass="com.sambold.Main"
+
+
+TESTAR
+═══════════════════════════════════════════════════════════════════
+Faça perguntas como:
+  💬 Quantos usuários existem?
+  💬 Liste todos os alunos
+  💬 Mostre as últimas mensagens do chat
+
+Comandos especiais:
+  info   → Estatísticas do banco
+  ajuda  → Menu de comandos
+  sair   → Encerrar
+
+
+PROBLEMAS?
+═══════════════════════════════════════════════════════════════════
+❌ "Ollama não está rodando"
+   → Abra outro terminal: ollama serve
+
+❌ "Cannot connect to database"
+   → Verifique DatabaseConfig.java
+   → MySQL está rodando?
+
+❌ "Model not found"
+   → ollama pull gemma3:12b
+
+
+PRONTO! 🎉
+═══════════════════════════════════════════════════════════════════
+Leia README.md para mais detalhes e exemplos.
