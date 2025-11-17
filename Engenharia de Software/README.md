@@ -90,3 +90,8 @@
 <br>
 <img width="1388" height="660" alt="Image" src="https://github.com/user-attachments/assets/cfd6167d-638f-4ef4-baa8-619bf125d242" />
 <img width="1388" height="252" alt="Image" src="https://github.com/user-attachments/assets/c09b46ae-17af-4379-91ae-51f9a89a925f" />
+<br>
+<h3 align="center"> ★ Atividade 9 - Grupo ★ </h3>
+<br>
+<p align="justify"> A resolução da Atividade 9 encontra-se na subpasta A9, com o respectivo código. </p>
+<br>
